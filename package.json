@@ -1,0 +1,24 @@
+{
+  "name": "node-y-mongodb-julian-irigoyen-4e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julian-irigoyen/Node-y-MongoDb-Julian-Irigoyen-4E.git"
+  },
+  "author": "Julián Irigoyen 4E",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julian-irigoyen/Node-y-MongoDb-Julian-Irigoyen-4E/issues"
+  },
+  "homepage": "https://github.com/Julian-irigoyen/Node-y-MongoDb-Julian-Irigoyen-4E#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "mongoose": "^5.9.17"
+  }
+}

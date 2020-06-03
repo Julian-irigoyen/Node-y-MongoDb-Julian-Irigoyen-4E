@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+}
+header{
+    color: whitesmoke;
+    border: 5px solid cornflowerblue;
+    text-align: center;
+}
+img{
+    margin: 3px;
+    width: 400px;
+    height: 400px;
+}
